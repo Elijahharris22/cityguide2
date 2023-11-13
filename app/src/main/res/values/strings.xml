@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">City_Guide_app</string>
+    <string name="willis">Willis Tower Image</string>
+    <string name="bean">Chicago Bean Image</string>
+    <string name="water">Water Tower Image</string>
+
+</resources>
